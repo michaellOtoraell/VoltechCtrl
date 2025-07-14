@@ -1,0 +1,1 @@
+echo "web: java -jar target/*.jar" > Procfile
