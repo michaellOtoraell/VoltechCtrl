@@ -1,1 +1,0 @@
-echo "web: java -Dserver.port=\$PORT -jar target/VoltechCtrl-0.0.1-SNAPSHOT.jar" > Procfile
